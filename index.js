@@ -1,0 +1,1 @@
+module.exports = () => console.log('est. 1971');
